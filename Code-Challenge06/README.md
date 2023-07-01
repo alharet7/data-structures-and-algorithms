@@ -18,7 +18,7 @@
 
 ![After](./after.png)
 
-#### Stretch Goal 🥅
+## Stretch Goal 🥅
 
 - Delete Node ❌
 
