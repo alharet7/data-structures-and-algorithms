@@ -8,3 +8,4 @@
 | Code Challenge 03     |[array-binary-search](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge03)   |
 | Code Challenge 05     |[Linked Lists](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge05)   |
 | Code Challenge 06     |[Linked Lists insertion and delete](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge06)   |
+| Code Challenge 07     |[k-th value from the end of a linked list](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge07)   |
