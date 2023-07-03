@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\alharet7\\data-structures-and-algorithms\\Code-Challenge05\\LinkedList\\LinkedList\\LinkedList.csproj",
+      "projectUniqueName": "D:\\VS\\Code-Challenge-repo\\data-structures-and-algorithms\\Code-Challenge05\\LinkedList\\LinkedList\\LinkedList.csproj",
       "projectName": "LinkedList",
-      "projectPath": "C:\\Users\\User\\source\\repos\\alharet7\\data-structures-and-algorithms\\Code-Challenge05\\LinkedList\\LinkedList\\LinkedList.csproj",
+      "projectPath": "D:\\VS\\Code-Challenge-repo\\data-structures-and-algorithms\\Code-Challenge05\\LinkedList\\LinkedList\\LinkedList.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\alharet7\\data-structures-and-algorithms\\Code-Challenge05\\LinkedList\\LinkedList\\obj\\",
+      "outputPath": "D:\\VS\\Code-Challenge-repo\\data-structures-and-algorithms\\Code-Challenge05\\LinkedList\\LinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
