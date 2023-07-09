@@ -5,6 +5,10 @@
 - This code implements a `singly linked list data structure` with various operations such as **appending nodes**, **inserting nodes** before or after a specified node, and **deleting nodes**. The time complexity for each operation is **O(n)**, where **n** is the number of `nodes` in the list. The space complexity of the linked list is also **O(n)** as it requires memory to store each `node`.
 - All tests passed. ✅
 
+### White Board :
+![problem domain and Big O](./CC06problem.png)
+![problem domain and Big O](./CC06WB1.png)
+
 #### Appending nodes:
 ![Append](./Befor.png)
 
