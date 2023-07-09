@@ -1,0 +1,15 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\bin\Debug\net7.0\linked-list-zip.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\bin\Debug\net7.0\linked-list-zip.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\bin\Debug\net7.0\linked-list-zip.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\bin\Debug\net7.0\linked-list-zip.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\bin\Debug\net7.0\linked-list-zip.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.csproj.AssemblyReference.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\refint\linked-list-zip.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\linked-list-zip.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge08\linked-list-zip\linked-list-zip\obj\Debug\net7.0\ref\linked-list-zip.dll
