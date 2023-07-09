@@ -7,5 +7,10 @@
 
 - The time complexity of adding a node to the linked list is O(1) as it simply updates the head pointer. The time complexity of printing the list is O(n) as it iterates over all the nodes once. The time complexity of checking if a value exists in the list is also O(n) as it may need to traverse the entire list in the worst case. The space complexity is O(n) as it requires additional memory to store the linked list nodes.
 ---
+## White Board:
+![White Board](./cc05hwhiteboard.png)
+
+---
+
 ## Solution
 ![code challenge 05](./cc05.png)
