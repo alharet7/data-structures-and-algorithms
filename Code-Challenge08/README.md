@@ -11,6 +11,9 @@ This code implements linked lists. It includes methods to merge two lists while 
 
 - The ***space complexity*** of both methods is O(n + m) as well since the merged lists created in both cases will have the combined number of nodes from list1 and list2.
 
+## White Borad:
+
+![WhiteBoardCC08](./WhiteBoardCC08.png)
 
 ## Solution :
 
