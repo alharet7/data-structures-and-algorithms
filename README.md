@@ -10,3 +10,4 @@
 | Code Challenge 06     |[Linked Lists insertion and delete](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge06)   |
 | Code Challenge 07     |[k-th value from the end of a linked list](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge07)   |
 | Code-Challenge08     |[Linked Lists Zip](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge08)
+| Code-Challenge10     |[Stack&Queue](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge10)
