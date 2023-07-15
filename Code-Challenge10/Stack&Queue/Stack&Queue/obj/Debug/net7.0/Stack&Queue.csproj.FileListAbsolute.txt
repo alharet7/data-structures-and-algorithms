@@ -1,0 +1,15 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\bin\Debug\net7.0\Stack&Queue.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\bin\Debug\net7.0\Stack&Queue.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\bin\Debug\net7.0\Stack&Queue.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\bin\Debug\net7.0\Stack&Queue.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\bin\Debug\net7.0\Stack&Queue.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.csproj.AssemblyReference.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\refint\Stack&Queue.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\Stack&Queue.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge10\Stack&Queue\Stack&Queue\obj\Debug\net7.0\ref\Stack&Queue.dll
