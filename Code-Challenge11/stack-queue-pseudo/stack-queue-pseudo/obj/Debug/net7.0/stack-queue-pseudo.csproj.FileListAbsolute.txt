@@ -1,0 +1,15 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net7.0\stack-queue-pseudo.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net7.0\stack-queue-pseudo.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net7.0\stack-queue-pseudo.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net7.0\stack-queue-pseudo.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\bin\Debug\net7.0\stack-queue-pseudo.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.csproj.AssemblyReference.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\refint\stack-queue-pseudo.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\stack-queue-pseudo.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge11\stack-queue-pseudo\stack-queue-pseudo\obj\Debug\net7.0\ref\stack-queue-pseudo.dll
