@@ -69,16 +69,6 @@ namespace Stack_Queue.Stacks_Queue
                 return false;
             }
         }
-        public void PrintStack()
-        {
-            Node printNode = Top;
-            Console.WriteLine("--Stack--");
-            Console.WriteLine("Top");
-            while (printNode != null)
-            {
-                Console.WriteLine($"{{{printNode.Data}}}");
-                printNode = printNode.Next;
-            }
-        }
+        
     }
 }
