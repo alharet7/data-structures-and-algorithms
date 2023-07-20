@@ -12,3 +12,4 @@
 | Code-Challenge08     |[Linked Lists Zip](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge08)
 | Code-Challenge10     |[Stack&Queue](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge10)
 | Code-Challenge11     |[stack-queue-pseudo](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge11)
+| Code-Challenge12     |[stack-queue-animal-shelter](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge12)
