@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Code-Challenge11",
+    "\\Code-Challenge11\\stack-queue-pseudo",
+    "\\Code-Challenge11\\stack-queue-pseudo\\stack-queue-pseudo"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Code-Challenge11\\stack-queue-pseudo\\stack-queue-pseudo\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
