@@ -1,0 +1,15 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\bin\Debug\net7.0\stack-queue-animal-shelter.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.csproj.AssemblyReference.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\refint\stack-queue-animal-shelter.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\stack-queue-animal-shelter.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge12\stack-queue-animal-shelter\stack-queue-animal-shelter\obj\Debug\net7.0\ref\stack-queue-animal-shelter.dll
