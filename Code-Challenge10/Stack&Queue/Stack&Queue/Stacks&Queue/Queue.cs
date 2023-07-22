@@ -8,14 +8,14 @@ namespace Stack_Queue.Stacks_Queue
 {
     public class Queue
     {
-        private Node First { get; set; }
-        private Node Last { get; set; }
+        private Node? First { get; set; }
+        private Node? Last { get; set; }
         public int Count { get; set; }
 
         public Queue()
         {
-            First = null;
-            Last = null;
+            First = Last = null;
+
         }
 
         public void Enqueue(int data)
@@ -23,8 +23,7 @@ namespace Stack_Queue.Stacks_Queue
             Node newNode = new(data);
             if (First == null)
             {
-                First = newNode;
-                Last = newNode;
+                First = Last = newNode;
                 Count++;
             }
             else
@@ -39,7 +38,7 @@ namespace Stack_Queue.Stacks_Queue
         {
             if (First == null)
             {
-                throw new NullReferenceException("The Queue is empty");
+                throw new NullReferenceException("The Queue is empty!!");
             }
             else
             {
