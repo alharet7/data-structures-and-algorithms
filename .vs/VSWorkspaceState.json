@@ -1,10 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Code-Challenge10",
+    "\\Code-Challenge10\\Stack&Queue",
+    "\\Code-Challenge10\\Stack&Queue\\Stack&Queue",
     "\\Code-Challenge11",
     "\\Code-Challenge11\\stack-queue-pseudo",
-    "\\Code-Challenge11\\stack-queue-pseudo\\stack-queue-pseudo"
+    "\\Code-Challenge11\\stack-queue-pseudo\\stack-queue-pseudo",
+    "\\Code-Challenge12"
   ],
-  "SelectedNode": "\\Code-Challenge11\\stack-queue-pseudo\\stack-queue-pseudo\\Program.cs",
+  "SelectedNode": "\\Code-Challenge10\\Stack&Queue\\Stack&Queue\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
