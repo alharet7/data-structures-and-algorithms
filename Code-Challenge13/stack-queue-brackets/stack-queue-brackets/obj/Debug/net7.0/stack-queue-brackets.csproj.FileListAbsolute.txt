@@ -1,0 +1,15 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\bin\Debug\net7.0\stack-queue-brackets.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.AssemblyReference.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\refint\stack-queue-brackets.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\stack-queue-brackets.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge13\stack-queue-brackets\stack-queue-brackets\obj\Debug\net7.0\ref\stack-queue-brackets.dll
