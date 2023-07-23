@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack-queue-brackets", "stack-queue-brackets\stack-queue-brackets.csproj", "{10E38002-53EE-45BC-B09C-2EE4B22B3AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack-queue-bracketsTest", "stack-queue-bracketsTest\stack-queue-bracketsTest.csproj", "{E24AD530-59F7-4232-8B60-143AD654091A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10E38002-53EE-45BC-B09C-2EE4B22B3AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E38002-53EE-45BC-B09C-2EE4B22B3AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E38002-53EE-45BC-B09C-2EE4B22B3AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E38002-53EE-45BC-B09C-2EE4B22B3AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24AD530-59F7-4232-8B60-143AD654091A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24AD530-59F7-4232-8B60-143AD654091A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24AD530-59F7-4232-8B60-143AD654091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24AD530-59F7-4232-8B60-143AD654091A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21E9CE78-B696-446A-BDF7-5A64916B9E0F}
+	EndGlobalSection
+EndGlobal
