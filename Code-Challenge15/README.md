@@ -34,6 +34,8 @@ Binary Search Tree is a node-based binary tree data structure which has the foll
 
 ## Whiteboard
 
+![Whiteboard](./WhiteBoard.jpg)
+![Visualization](./Visualization.jpg)
 
 ---
 
