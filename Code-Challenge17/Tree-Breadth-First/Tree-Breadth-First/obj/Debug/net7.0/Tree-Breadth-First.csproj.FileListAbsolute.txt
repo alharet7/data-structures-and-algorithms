@@ -1,0 +1,15 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\bin\Debug\net7.0\Tree-Breadth-First.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\bin\Debug\net7.0\Tree-Breadth-First.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\bin\Debug\net7.0\Tree-Breadth-First.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\bin\Debug\net7.0\Tree-Breadth-First.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\bin\Debug\net7.0\Tree-Breadth-First.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.csproj.AssemblyReference.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\refint\Tree-Breadth-First.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\Tree-Breadth-First.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge17\Tree-Breadth-First\Tree-Breadth-First\obj\Debug\net7.0\ref\Tree-Breadth-First.dll
