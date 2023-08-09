@@ -20,7 +20,7 @@ namespace Trees
 
         public List<int> PreOrder(Node node)
         {
-            List<int> result = new List<int>();
+            List<int> result = new();
 
             if (node == null)
             {

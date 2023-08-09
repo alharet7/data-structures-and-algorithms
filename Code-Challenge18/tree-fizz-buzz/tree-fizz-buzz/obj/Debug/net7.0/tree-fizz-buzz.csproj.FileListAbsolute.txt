@@ -1,0 +1,15 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\bin\Debug\net7.0\tree-fizz-buzz.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\bin\Debug\net7.0\tree-fizz-buzz.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\bin\Debug\net7.0\tree-fizz-buzz.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\bin\Debug\net7.0\tree-fizz-buzz.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\bin\Debug\net7.0\tree-fizz-buzz.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.csproj.AssemblyReference.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\refint\tree-fizz-buzz.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\tree-fizz-buzz.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge18\tree-fizz-buzz\tree-fizz-buzz\obj\Debug\net7.0\ref\tree-fizz-buzz.dll
