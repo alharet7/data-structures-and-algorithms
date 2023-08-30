@@ -18,10 +18,10 @@ namespace LinkedList06
             linkedList.DeleteNode(20);
 
 
-            Node node = linkedList.head;
+            Node node = linkedList.Head;
             while (node != null)
             {
-                Console.Write($" {{ {node.value} }}==>");
+                Console.Write($" {{ {node.Data} }}==>");
                 node = node.Next;
             }
             Console.Write("Null \n\n");
@@ -30,33 +30,33 @@ namespace LinkedList06
     }
     public class Node
     {
-        public int value { set; get; }
+        public int Data { set; get; }
         public Node Next { set; get; }
 
         public Node(int data)
         {
-            value = data;
+            Data = data;
         }
     }
     public class LinkedList
     {
-        public Node head { set; get; }
+        public Node Head { set; get; }
         public LinkedList()
         {
-            head = null;
+            Head = null;
         }
 
         public void Append(int data)
         {
             Node appendNode = new Node(data);
 
-            if (head == null)
+            if (Head == null)
             {
-                head = appendNode;
+                Head = appendNode;
             }
             else
             {
-                Node current = head;
+                Node current = Head;
 
                 while (current.Next != null)
                 {
@@ -66,27 +66,27 @@ namespace LinkedList06
             }
 
         }
-        public void InsertBefore(int data, int newdata)
+        public void InsertBefore(int data, int newData)
         {
-            Node newNode = new Node(newdata);
+            Node newNode = new Node(newData);
 
-            if (head == null)
+            if (Head == null)
             {
-                head = newNode;
+                Head = newNode;
                 return;
             }
 
-            if (head.value == data)
+            if (Head.Data == data)
             {
-                newNode.Next = head;
-                head = newNode;
+                newNode.Next = Head;
+                Head = newNode;
                 return;
             }
 
-            Node current = head;
+            Node current = Head;
             while (current.Next != null)
             {
-                if (current.Next.value == data)
+                if (current.Next.Data == data)
                 {
                     newNode.Next = current.Next;
                     current.Next = newNode;
@@ -98,14 +98,14 @@ namespace LinkedList06
             current.Next = newNode;
         }
 
-        public void InsertAfter(int data, int newdata)
+        public void InsertAfter(int data, int newData)
         {
-            Node newNode = new Node(newdata);
-            Node currentNode = head;
+            Node newNode = new Node(newData);
+            Node currentNode = Head;
 
             while (currentNode != null)
             {
-                if (currentNode.value == data)
+                if (currentNode.Data == data)
                 {
                     newNode.Next = currentNode.Next;
                     currentNode.Next = newNode;
@@ -117,14 +117,14 @@ namespace LinkedList06
         }
         public void DeleteNode(int key)
         {
-            Node current = head;
+            Node current = Head;
             Node prev = null;
-            if (current != null && current.value == key)
+            if (current != null && current.Data == key)
             {
-                head = current.Next;
+                Head = current.Next;
                 return;
             }
-            while (current != null && current.value != key)
+            while (current != null && current.Data != key)
             {
                 prev = current;
                 current = current.Next;
