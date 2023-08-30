@@ -15,3 +15,4 @@
 | Code-Challenge12     |[stack-queue-animal-shelter](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge12)
 | Code-Challenge13     |[stack queue bracketsr](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge13)
 | Code-Challenge15     |[Binary-Treer](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge15)
+| Code-Challenge26     |[Insertion Sort](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge26)
