@@ -16,3 +16,4 @@
 | Code-Challenge13     |[stack queue bracketsr](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge13)
 | Code-Challenge15     |[Binary-Treer](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge15)
 | Code-Challenge26     |[Insertion Sort](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge26)
+| Code-Challenge27     |[Merge sort](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge27)
