@@ -12,17 +12,17 @@ namespace linked_list_kth
             linkedList.AddNode(30);
             linkedList.AddNode(20);
             linkedList.AddNode(10);
-            Console.WriteLine(linkedList.kthFromEnd(3));
+            Console.WriteLine(linkedList.kthFromEnd(0));
 
 
 
             Console.WriteLine($"----------------------- \n");
-            Node node = linkedList.head;
+            Node node = linkedList.Head;
             while (node != null)
             {
 
-                Console.Write($" {{ {node.data} }}==>");
-                node = node.next;
+                Console.Write($" {{ {node.Data} }}==>");
+                node = node.Next;
             }
             Console.Write("{Null} \n \n");
             Console.ReadLine();
@@ -30,63 +30,59 @@ namespace linked_list_kth
     }
     public class Node
     {
-        public int data { get; set; }
-        public Node next { get; set; }
+        public int Data { get; set; }
+        public Node Next { get; set; }
         public Node(int k)
         {
-            data = k;
-            next = null;
+            Data = k;
+            Next = null;
         }
     }
     public class LinkedList
     {
 
-        public Node head { get; set; }
+        public Node Head { get; set; }
 
         public void AddNode(int data)
         {
             Node node = new Node(data);
-            node.data = data;
-            node.next = head;
-            head = node;
+            node.Data = data;
+            node.Next = Head;
+            Head = node;
         }
         public int kthFromEnd(int k)
         {
-            try
+            if (k < 0)
             {
-                if (k < 0)
-                {
-                    throw new Exception("Enter a positive number,please!");
-                }
-                int counter = 0;
-                Node node = head;
-                while (node != null)
-                {
-                    node = node.next;
-                    counter++;
-                }
-                if (k > counter)
-                {
-                    throw new Exception("your number is greater than the list!");
-                }
-                if (counter == k)
-                {
-                    return head.data;
-                }
-                int nodeNum = counter - k;
-                node = head;
-                while (nodeNum > 1)
-                {
-                    node = node.next;
-                    nodeNum--;
-                }
-                return node.data;
+                Console.WriteLine("Enter a positive number, please!");
+                return -1; // or throw an ArgumentException
             }
-            catch (Exception e)
+
+            int counter = 0;
+            Node node = Head;
+            while (node != null)
             {
-                Console.WriteLine(e.Message);
-                return -1;
+                node = node.Next;
+                counter++;
             }
+
+            if (k >= counter)
+            {
+                Console.WriteLine("Your number is greater than the list!");
+                return -1; // or throw an ArgumentException
+            }
+
+            int nodeNum = counter - k;
+            node = Head;
+            while (nodeNum > 1)
+            {
+                node = node.Next;
+                nodeNum--;
+            }
+
+            return node.Data;
         }
+
+
     }
 }

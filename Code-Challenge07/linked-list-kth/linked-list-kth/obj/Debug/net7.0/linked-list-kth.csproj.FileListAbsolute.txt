@@ -3,7 +3,6 @@ D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.runtimeconfig.json
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.dll
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked-list-kth\linked-list-kth\bin\Debug\net7.0\linked-list-kth.pdb
-D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.csproj.AssemblyReference.cache
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.GeneratedMSBuildEditorConfig.editorconfig
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfoInputs.cache
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge07\linked-list-kth\linked-list-kth\obj\Debug\net7.0\linked-list-kth.AssemblyInfo.cs
