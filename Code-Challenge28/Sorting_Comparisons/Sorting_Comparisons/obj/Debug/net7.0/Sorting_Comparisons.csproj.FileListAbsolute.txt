@@ -1,0 +1,14 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\bin\Debug\net7.0\Sorting_Comparisons.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\bin\Debug\net7.0\Sorting_Comparisons.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\bin\Debug\net7.0\Sorting_Comparisons.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\bin\Debug\net7.0\Sorting_Comparisons.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\bin\Debug\net7.0\Sorting_Comparisons.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\Sorting_Comparisons.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\Sorting_Comparisons.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\Sorting_Comparisons.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\Sorting_Comparisons.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\Sorting_Comparisons.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\refint\Sorting_Comparisons.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\Sorting_Comparisons.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\Sorting_Comparisons.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge28\Sorting_Comparisons\Sorting_Comparisons\obj\Debug\net7.0\ref\Sorting_Comparisons.dll
