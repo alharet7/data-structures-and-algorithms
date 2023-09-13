@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Code-Challenge28",
+    "\\Code-Challenge28\\Sorting_Comparisons",
+    "\\Code-Challenge28\\Sorting_Comparisons\\Sorting_Comparisons_Tests"
   ],
-  "SelectedNode": "\\Code-Challenge27",
+  "SelectedNode": "\\Code-Challenge28\\Sorting_Comparisons\\Sorting_Comparisons_Tests\\UnitTest1.cs",
   "PreviewInSolutionExplorer": false
 }
