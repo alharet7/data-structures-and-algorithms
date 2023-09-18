@@ -19,9 +19,9 @@ namespace Binary_Tree
 
             foreach (var item in result)
             {
-                Console.WriteLine(item);
+                Console.Write($"{item}"+" ");
             }
-            //50 20 18 22 40 90 80 100
+            // 18 20 50 90
             Console.ReadKey();
         }
     }

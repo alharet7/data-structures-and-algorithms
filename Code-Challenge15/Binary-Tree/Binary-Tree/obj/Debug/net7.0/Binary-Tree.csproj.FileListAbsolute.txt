@@ -3,7 +3,6 @@ D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary-Tree\Binary-Tree\bin\Debug\net7.0\Binary-Tree.runtimeconfig.json
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary-Tree\Binary-Tree\bin\Debug\net7.0\Binary-Tree.dll
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary-Tree\Binary-Tree\bin\Debug\net7.0\Binary-Tree.pdb
-D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary-Tree\Binary-Tree\obj\Debug\net7.0\Binary-Tree.csproj.AssemblyReference.cache
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary-Tree\Binary-Tree\obj\Debug\net7.0\Binary-Tree.GeneratedMSBuildEditorConfig.editorconfig
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary-Tree\Binary-Tree\obj\Debug\net7.0\Binary-Tree.AssemblyInfoInputs.cache
 D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge15\Binary-Tree\Binary-Tree\obj\Debug\net7.0\Binary-Tree.AssemblyInfo.cs
