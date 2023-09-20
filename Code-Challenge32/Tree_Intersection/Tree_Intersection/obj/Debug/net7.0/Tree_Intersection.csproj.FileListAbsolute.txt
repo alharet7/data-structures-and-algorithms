@@ -1,0 +1,14 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\bin\Debug\net7.0\Tree_Intersection.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\bin\Debug\net7.0\Tree_Intersection.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\bin\Debug\net7.0\Tree_Intersection.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\bin\Debug\net7.0\Tree_Intersection.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\bin\Debug\net7.0\Tree_Intersection.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\Tree_Intersection.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\Tree_Intersection.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\Tree_Intersection.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\Tree_Intersection.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\Tree_Intersection.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\refint\Tree_Intersection.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\Tree_Intersection.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\Tree_Intersection.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge32\Tree_Intersection\Tree_Intersection\obj\Debug\net7.0\ref\Tree_Intersection.dll
