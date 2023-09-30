@@ -22,3 +22,8 @@
 | Code-Challenge27     |[Merge sort](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge27)
 | Code-Challenge28     |[Sorting_Comparisons](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge28)
 | Code-Challenge30     |[HashTable](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge30/HashTable)
+| Code-Challenge31     |[RepeatedWord](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge31/RepeatedWord)
+| Code-Challenge32     |[Tree_Intersection](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge32/Tree_Intersection)
+| Code-Challenge33     |[hashmap-left-join](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge33/hashmap-left-join)
+| Code-Challenge35     |[Graph](https://github.com/alharet7/data-structures-and-algorithms/tree/main/Code-Challenge34/Graph)
+
