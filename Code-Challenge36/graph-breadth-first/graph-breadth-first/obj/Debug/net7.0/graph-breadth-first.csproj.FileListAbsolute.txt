@@ -1,0 +1,14 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\bin\Debug\net7.0\graph-breadth-first.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\bin\Debug\net7.0\graph-breadth-first.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\bin\Debug\net7.0\graph-breadth-first.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\bin\Debug\net7.0\graph-breadth-first.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\bin\Debug\net7.0\graph-breadth-first.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\graph-breadth-first.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\graph-breadth-first.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\graph-breadth-first.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\graph-breadth-first.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\graph-breadth-first.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\refint\graph-breadth-first.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\graph-breadth-first.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\graph-breadth-first.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge36\graph-breadth-first\graph-breadth-first\obj\Debug\net7.0\ref\graph-breadth-first.dll
