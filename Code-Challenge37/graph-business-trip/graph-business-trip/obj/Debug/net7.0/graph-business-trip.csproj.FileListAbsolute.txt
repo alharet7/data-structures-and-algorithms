@@ -1,0 +1,14 @@
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\bin\Debug\net7.0\graph-business-trip.exe
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\bin\Debug\net7.0\graph-business-trip.deps.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\bin\Debug\net7.0\graph-business-trip.runtimeconfig.json
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\bin\Debug\net7.0\graph-business-trip.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\bin\Debug\net7.0\graph-business-trip.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\graph-business-trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\graph-business-trip.AssemblyInfoInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\graph-business-trip.AssemblyInfo.cs
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\graph-business-trip.csproj.CoreCompileInputs.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\graph-business-trip.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\refint\graph-business-trip.dll
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\graph-business-trip.pdb
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\graph-business-trip.genruntimeconfig.cache
+D:\VS\Code-Challenge-repo\data-structures-and-algorithms\Code-Challenge37\graph-business-trip\graph-business-trip\obj\Debug\net7.0\ref\graph-business-trip.dll

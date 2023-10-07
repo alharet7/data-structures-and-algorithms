@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Code-Challenge34",
-    "\\Code-Challenge34\\Graph"
+    "\\Code-Challenge36",
+    "\\Code-Challenge36\\graph-breadth-first",
+    "\\Code-Challenge36\\graph-breadth-first\\GraphTests"
   ],
-  "SelectedNode": "\\Code-Challenge34\\Graph\\README.md",
+  "SelectedNode": "\\Code-Challenge36\\graph-breadth-first\\CC36sol.png",
   "PreviewInSolutionExplorer": false
 }
